@@ -137,7 +137,7 @@ public class LevelManager : MonoBehaviour
         yield return null; 
         
         var shapes = FindObjectsOfType<Shape>()
-            .Where(s => !s && !s.gameObject)
+            .Where(s => s != null && s.gameObject != null)
             .ToList();
 
         if (shapes.Count == 0 && ActionBar.Instance.Length() == 0)
