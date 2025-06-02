@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8c9ddf0d32dab409e20613c79c3778, type: 3}
+  m_Name: SD_gem_diamond_purple_outline_animal_rabbit_outline_captured_Normal
+  m_EditorClassIdentifier: 
+  shapeSprite: {fileID: 21300000, guid: 1eba8645334cb4a4fbc349d10bbf584f, type: 3}
+  animalSprite: {fileID: 21300000, guid: cba5bc79f6b737d49ba1a877a48c2f01, type: 3}
+  specialType: 0

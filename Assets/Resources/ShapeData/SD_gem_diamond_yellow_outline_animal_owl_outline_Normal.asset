@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8c9ddf0d32dab409e20613c79c3778, type: 3}
+  m_Name: SD_gem_diamond_yellow_outline_animal_owl_outline_Normal
+  m_EditorClassIdentifier: 
+  shapeSprite: {fileID: 21300000, guid: 08421e9709a529f44b0155c11efe341a, type: 3}
+  animalSprite: {fileID: 21300000, guid: 18e73f040f3135e41b9d54a54723c892, type: 3}
+  specialType: 0
